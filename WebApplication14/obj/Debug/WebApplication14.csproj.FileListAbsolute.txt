@@ -1,0 +1,7 @@
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\bin\WebApplication14.dll.config
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\bin\WebApplication14.dll
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\bin\WebApplication14.pdb
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\obj\Debug\WebApplication14.csproj.AssemblyReference.cache
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\obj\Debug\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\obj\Debug\WebApplication14.dll
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication14\obj\Debug\WebApplication14.pdb

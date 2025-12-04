@@ -1,0 +1,7 @@
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\obj\Debug\WebApplication16.csproj.AssemblyReference.cache
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\obj\Debug\WebApplication16.csproj.CoreCompileInputs.cache
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\bin\WebApplication16.dll.config
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\bin\WebApplication16.dll
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\bin\WebApplication16.pdb
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\obj\Debug\WebApplication16.dll
+C:\Users\alfon\ESCUELA\ESCUELA\TODOS PARTE2\TODOS PARTE2\Aplicaciones Avanzadas para Internet\1 PARCIAL\WebApplication16\obj\Debug\WebApplication16.pdb
