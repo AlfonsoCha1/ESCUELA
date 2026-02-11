@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using INDEX.CONTROLLER;
+
+namespace INDEX.CONTROLLER
+{
+    public class ControllerSaludo
+    {
+        //ControllerSaludo cntrl = new ControllerSaludo();
+
+        public string obtenerSaludo()
+        {
+            return "Hola , bienvenido";
+        }
+        //ControllerSaludo saludo = new ControllerSaludo();
+        //string mensaje = saludo.ObtenerSaludo();
+        //Console.WriteLine(mensaje);
+
+    }
+}
